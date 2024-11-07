@@ -1,3 +1,2 @@
-# G-19-Mobile-Programming-Project-
-Group-19 Mobile Programming Project 
-Task Management App 
+# G-19-Mobile-Programming-Project- 
+Mobile Task Management App 
